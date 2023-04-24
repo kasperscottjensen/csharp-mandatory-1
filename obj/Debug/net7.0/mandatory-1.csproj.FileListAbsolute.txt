@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/bin/Debug/net7.0/mandatory-1
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/bin/Debug/net7.0/mandatory-1.deps.json
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/bin/Debug/net7.0/mandatory-1.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/bin/Debug/net7.0/mandatory-1.dll
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/bin/Debug/net7.0/mandatory-1.pdb
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.dll
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/refint/mandatory-1.dll
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.pdb
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/mandatory-1.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/mandatory-1/obj/Debug/net7.0/ref/mandatory-1.dll
